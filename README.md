@@ -1,7 +1,7 @@
 # Habit Tracker
+A Python script using [Pixela](https://pixe.la/) to generate a graph to store the progress of any habit, goal etc
 
-
-## Screenshots
+## Screenshot
 ![ss](https://user-images.githubusercontent.com/87208681/128559855-b1c982be-cce5-469e-ba07-0b7415bf5c7e.png)
 
 ## API
