@@ -9,6 +9,7 @@ A Python script using [Pixela](https://pixe.la/) to generate a graph to store th
 
 ## Environment Variables
 To run this project, you will need to add the following environment variables to your .env file
+
 `PIXELA_TOKEN` `PIXELA_USERNAME` `GRAPH_ID`
 
 Refer to the [env template](https://github.com/sejalabrol/habit-tracker/blob/main/.env.template)
